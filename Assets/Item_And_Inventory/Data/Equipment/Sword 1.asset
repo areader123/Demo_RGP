@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14803503114eace4193f28f8550b7cf7, type: 3}
+  m_Name: Sword 1
+  m_EditorClassIdentifier: 
+  Type: 1
+  ItemName: Sword
+  icon: {fileID: -1677223252, guid: f6b296ee51c42564abe9c05f1c502ecd, type: 3}
+  itemId: e8f364f374f75844a806bc339183d181
+  dropChance: 85.7
+  strength: 30
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  critChance: 0
+  critPower: 0
+  damage: 0
+  maxHP: 0
+  armor: 0
+  evasion: 0
+  MagicResistance: 0
+  ignite: 0
+  ice: 0
+  lighting: 0
+  CoolDown: 0
+  equipmentType: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 0b645b7c37023a64c818c2e331b4144d, type: 2}
+  craftingMaterial: []
